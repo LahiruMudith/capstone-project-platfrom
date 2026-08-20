@@ -16,4 +16,4 @@ module.exports = {
       log_file: "./logs/api-gateway.log"
     }
   ]
-}
+};
